@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 -
 ## My Main Stack
 <p align = "Left">
