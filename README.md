@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+-
+## My Main Stack
+<p align = "Left">
+  <img src="https://simpleicons.org/icons/node-dot-js.svg">
+  <img src="https://simpleicons.org/icons/c.svg">
+  <img src="https://simpleicons.org/icons/django.svg">
+  <img src="https://simpleicons.org/icons/java.svg">
+  
+</p>
 <!--
 **parkincastle/parkincastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
