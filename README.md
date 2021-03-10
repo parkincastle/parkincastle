@@ -2,11 +2,10 @@
 -
 ## My Main Stack
 <p align = "Left">
-  <img src="https://simpleicons.org/icons/node-dot-js.svg">
-  <img src="https://simpleicons.org/icons/c.svg">
-  <img src="https://simpleicons.org/icons/django.svg">
-  <img src="https://simpleicons.org/icons/java.svg">
-  
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
 </p>
 <!--
 **parkincastle/parkincastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
