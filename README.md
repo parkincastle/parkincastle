@@ -19,8 +19,8 @@
 </p>
 
 <p align = "Left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkincastle&show_icons=true&theme=radical)
-  ![{}'s github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle&layout=compact&&theme=dark)
+  ![INSUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkincastle&show_icons=true&theme=radical)
+  ![INSUNGS's github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle&layout=compact&&theme=dark)
 </p>
 
 <!--
