@@ -19,7 +19,7 @@
 </p>
 
   ![INSUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkincastle&show_icons=true&theme=radical)
-  ![INSUNGS's github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle&layout=compact&&theme=dark)
+  ![INSUNGS's github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle&layout=compact&&theme=white)
 
 <!--
 **parkincastle/parkincastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
