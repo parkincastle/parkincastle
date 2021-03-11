@@ -9,7 +9,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://user-images.githubusercontent.com/68880233/110731146-1c1e7d00-8265-11eb-8562-684d5efc2138.png" width="5%" heigth="5%">
-  
+  <img src="https://user-images.githubusercontent.com/68880233/110736583-44ab7480-826f-11eb-8f85-acd38a92b8ad.png" width="4%" hegiht="4%">
 </p>
 
 ## My Sub Stack
