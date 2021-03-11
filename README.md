@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkincastle&show_icons=true&theme=radical)
 
-![{}'s github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle-up&layout=compact&&theme=dark)
+![{}'s github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle&layout=compact&&theme=dark)
 <br/>
 
 <!--
