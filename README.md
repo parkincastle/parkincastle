@@ -5,23 +5,6 @@
 # Hi there 👋
 - I'm insung Park
 
-## My Main Stack
-<p align = "Left">
-   <a><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a></br>
-
-## My Sub Stack
-<p align = "left">
-    <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-    <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-
-  
-</p>
-
-  ![INSUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkincastle&show_icons=true&theme=radical)
-  ![INSUNGS's github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle&layout=compact&&theme=white)
-  
-  
 <h2 align="center">I studied this</h2>
 <p align="center">
   <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -34,8 +17,24 @@
   
 
 </p>
+
+<h2 align="center">I studying this</h2>
+<p align="center">
+  
+</p>
+
+  ![INSUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkincastle&show_icons=true&theme=radical)
+  ![INSUNGS's github stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkincastle&layout=compact&&theme=black)
   
   
+
+
+
+   
+   
+   
+   
+   
 </p>
 
 <!--
