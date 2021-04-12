@@ -1,5 +1,10 @@
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=7FFFD4&height=250&section=header&text=Hi there👋&fontSize=100&fontColor=808080" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi there👋&fontSize=100" />
+        "color": {
+            "0" : "F8B195",
+            "50" : "F67280",
+            "100" : "C06C84"
+        },
+        "text": "f7f5f5"
 
 <div align=center>
 
