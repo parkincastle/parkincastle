@@ -1,10 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi there👋&fontSize=100" />
-        "color": {
-            "0" : "F8B195",
-            "50" : "F67280",
-            "100" : "C06C84"
-        },
-        "text": "f7f5f5"
 
 <div align=center>
 
@@ -36,17 +30,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> 
 
-</p>
-  
-  
-
-
-
-   
-   
-   
-   
-   
 </p>
 
 <!--
