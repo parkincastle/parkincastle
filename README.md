@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/></a>
 
 
 </p>
