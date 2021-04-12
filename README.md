@@ -4,9 +4,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fparkincastle&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<h3>I'm insung Park!</h3>
+
 </div>
 
-- I'm insung Park
 
 <h2 align="center">📒I studied this📒</h2>
 <p align="center">
@@ -28,7 +29,9 @@
 <h2 align="center">✏️I studying this✏️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+
 
 </p>
 
