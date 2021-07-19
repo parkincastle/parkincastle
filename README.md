@@ -2,7 +2,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi there👋&fontSize=100" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fparkincastle&count_bg=%23333C4D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fparkincastle&count_bg=%23666F82&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2>I'm insung Park!</h2>
 
