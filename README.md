@@ -24,7 +24,6 @@
   <br>
   <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
   <br>
   <a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
@@ -36,9 +35,7 @@
 <h2 align="center">✏️I studying this✏️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<!--   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/></a>
 </p>
 <!--
 **parkincastle/parkincastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
